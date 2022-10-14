@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Big Business",
+        "employee": 300,
+        "ceo": "Yasser",
+        "rating": 5.0,
+        "license": true
+    },
+    {
+        "name": "Startup Business",
+        "employee": 5,
+        "ceo": null,
+        "rating": 2.5,
+        "license": false
+    }
+]
